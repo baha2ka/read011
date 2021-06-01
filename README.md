@@ -23,7 +23,7 @@
 	<main>
 		<div style="background-color:#caf7e3">
 			<h3>PIZZA MARGRITA</h3>
-			<img src="https://d1uz88p17r663j.cloudfront.net/resized/2c0472ad81427fcd1fbf9c431f48052e_Cheese-Pizza_HB-2_1500_700.jpg" alt="PIZZA" title="PIZAA" width="300px" height="250px"/>
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDoHP_USX5Zk2GUVJUNZXPAeZec8hnhBzhkQ&usqp=CAU" alt="PIZZA" title="PIZAA" width="300px" height="250px"/>
       </div>
       <div  style="background-color:#fb9300">
         <h3>MEAT PIZZA</h3>
